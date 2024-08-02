@@ -4,9 +4,9 @@
   import { SlideWrapper, SlideTitle } from '@/components';
 
   const screenshots = [
-    { src: '/help-screen.jpg', alt: 'Home Screen' },
-    { src: '/home-screen.jpg', alt: 'Basket Screen' },
-    { src: '/promotion-screen.jpg', alt: 'Promotion Screen' },
+    { src: '/client1-screen.jpg', alt: 'Utilisateur' },
+    { src: '/help-screen.jpg', alt: 'FAQ Screen' },
+    { src: '/client2-screen.jpg', alt: 'Utilisateur' },
   ];
 
   const Slide13Screenshots: React.FC = () => {
